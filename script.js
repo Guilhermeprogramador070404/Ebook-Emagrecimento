@@ -2,7 +2,7 @@
 // CONFIGURAÇÕES
 // ===============================
 
-const checkout = "https://pay.kiwify.com.br/gbRaMDC";
+const checkout = "https://pay.kiwify.com.br/LU6x4fj";
 
 
 // ===============================
