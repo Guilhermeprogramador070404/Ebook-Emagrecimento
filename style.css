@@ -741,3 +741,71 @@ grid-template-columns:1fr;
 }
 
 }
+
+/* ===== PREÇO ===== */
+
+.price-box{
+
+margin:35px 0;
+
+}
+
+.old-price{
+
+font-size:22px;
+
+color:#d1d5db;
+
+}
+
+.old-price span{
+
+text-decoration:line-through;
+
+}
+
+.new-price{
+
+font-size:46px;
+
+font-weight:800;
+
+color:#FFE600;
+
+margin:10px 0;
+
+}
+
+.new-price strong{
+
+font-size:58px;
+
+}
+
+.payment{
+
+font-size:18px;
+
+opacity:.95;
+
+margin-top:10px;
+
+}
+
+.cta-price{
+
+font-size:40px;
+
+margin:30px 0;
+
+color:#fff;
+
+}
+
+.cta-price strong{
+
+font-size:60px;
+
+color:#FFE600;
+
+}
